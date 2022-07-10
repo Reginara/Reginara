@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reginara</h1>
 <h3 align="center">A passionate web developer from Brasil</h3>
 
-- 🌱 I’m currently learning **web development at Trybe.**
+- 🌱 I’m currently working with **frontend development.**
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS**
+- 💬 Ask me about **Angular, React, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **refagomes@gmail.com**
 
